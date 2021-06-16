@@ -35,7 +35,7 @@
 
 MODULE_AUTHOR("Ralink Tech.");
 MODULE_DESCRIPTION("Support for Ralink Bluetooth RT3290 Cards");
-MODULE_SUPPORTED_DEVICE("Ralink Bluetooth RT3290 cards");
+//MODULE_SUPPORTED_DEVICE("Ralink Bluetooth RT3290 cards");
 MODULE_LICENSE("GPL");
 MODULE_VERSION(VERSION);
 
